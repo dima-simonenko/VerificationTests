@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_027</Id>
+  <Description>Движение потока людей контингента "Слепые и слабовидящие люди" по лестнице вниз.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_027.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_027_001</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.01 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_001.json</ConfigLocation>
+      <ScenarioName>Test_027_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>71.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>10</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>142.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>20</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_002</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.05 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_002.json</ConfigLocation>
+      <ScenarioName>Test_027_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>71.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>50</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>142.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>100</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_003</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.1 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_003.json</ConfigLocation>
+      <ScenarioName>Test_027_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>72.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>100</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>145.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_004</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.2 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_004.json</ConfigLocation>
+      <ScenarioName>Test_027_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>114.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>228.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_005</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.3 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_005.json</ConfigLocation>
+      <ScenarioName>Test_027_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>172.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>300</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>345.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_006</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.4 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_006.json</ConfigLocation>
+      <ScenarioName>Test_027_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>269.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>400</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>539.7</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_027_007</Id>
+      <Description>Движение потока людей контингента "Слепые и слабовидящие люди" с плотностью потока 0.5 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_027.fnx</ProjectLocation>
+      <ConfigLocation>Test_027_007.json</ConfigLocation>
+      <ScenarioName>Test_027_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>479.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>500</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>959.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1000</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>479.7</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

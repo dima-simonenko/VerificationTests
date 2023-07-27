@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_025</Id>
+  <Description>Движение потока людей контингента "Люди в стационарах больниц" по лестнице вниз.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_025.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_025_001</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.01 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_001.json</ConfigLocation>
+      <ScenarioName>Test_025_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>62.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>5</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>125.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_002</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.05 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_002.json</ConfigLocation>
+      <ScenarioName>Test_025_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>62.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>25</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>125.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>50</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_003</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.1 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_003.json</ConfigLocation>
+      <ScenarioName>Test_025_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>62.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>50</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>125.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>100</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_004</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.2 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_004.json</ConfigLocation>
+      <ScenarioName>Test_025_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>63.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>100</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>127.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_005</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.3 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_005.json</ConfigLocation>
+      <ScenarioName>Test_025_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>77.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>150</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>154.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>300</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_006</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.4 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_006.json</ConfigLocation>
+      <ScenarioName>Test_025_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>90.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>181.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_007</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.5 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_007.json</ConfigLocation>
+      <ScenarioName>Test_025_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>104.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>250</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>209.7</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>500</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>104.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_008</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.6 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_008.json</ConfigLocation>
+      <ScenarioName>Test_025_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>120.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>300</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>240.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>240.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_009</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.7 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_009.json</ConfigLocation>
+      <ScenarioName>Test_025_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>137.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>350</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>275.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>700</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>275.3</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_010</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.8 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_010.json</ConfigLocation>
+      <ScenarioName>Test_025_010</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>157.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>400</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>314.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>314.3</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_025_011</Id>
+      <Description>Движение потока людей контингента "Люди в стационарах больниц" с плотностью потока 0.9 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_025.fnx</ProjectLocation>
+      <ConfigLocation>Test_025_011.json</ConfigLocation>
+      <ScenarioName>Test_025_011</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>179.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>450</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>359.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>900</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>359.1</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

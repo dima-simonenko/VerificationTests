@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_821</Id>
+  <Description>В проекте допущен ряд ошибок, из-за которых 1 человек из 4029 не может физически эвакуироваться</Description>
+  <RegistratorEvacuationTimeMaxDiff>INF</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>INF</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_821_001</Id>
+      <ProjectLocation>FNX-1102.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 4(2 П.О. Очаг пожара в офисе на 3 этаже)</ScenarioName>
+      <RegistratorName>Дверь 35</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>4028</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

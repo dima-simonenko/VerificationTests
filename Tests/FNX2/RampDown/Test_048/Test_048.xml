@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_048</Id>
+  <Description>Движение потока людей контингента "Взрослый человек в летней одежде" по пандусу вниз.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_048.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_048_001</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.01 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_001.json</ConfigLocation>
+      <ScenarioName>Test_048_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>13.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>10</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>26.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>20</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_002</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.05 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_002.json</ConfigLocation>
+      <ScenarioName>Test_048_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>13.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>50</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>26.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>100</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_003</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.1 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_003.json</ConfigLocation>
+      <ScenarioName>Test_048_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>13.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>100</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>26.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_004</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.2 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_004.json</ConfigLocation>
+      <ScenarioName>Test_048_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>13.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>27.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_005</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.3 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_005.json</ConfigLocation>
+      <ScenarioName>Test_048_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>16.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>300</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>33.6</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_006</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.4 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_006.json</ConfigLocation>
+      <ScenarioName>Test_048_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>19.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>400</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>39.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_007</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.5 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_007.json</ConfigLocation>
+      <ScenarioName>Test_048_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>22.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>500</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>45.6</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1000</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>22.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_008</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.6 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_008.json</ConfigLocation>
+      <ScenarioName>Test_048_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>26.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>600</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>52.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>52.3</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_009</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.7 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_009.json</ConfigLocation>
+      <ScenarioName>Test_048_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>29.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>700</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>59.6</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>59.6</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_010</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.8 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_010.json</ConfigLocation>
+      <ScenarioName>Test_048_010</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>33.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>800</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>67.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>67.9</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_048_011</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_048.fnx</ProjectLocation>
+      <ConfigLocation>Test_048_011.json</ConfigLocation>
+      <ScenarioName>Test_048_011</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>38.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>900</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>77.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>77.3</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

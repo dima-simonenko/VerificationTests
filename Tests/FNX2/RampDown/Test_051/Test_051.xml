@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_051</Id>
+  <Description>Движение потока людей контингента "Дети с ограниченными возможностями" по пандусу вниз.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_051.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_051_001</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.01 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_001.json</ConfigLocation>
+      <ScenarioName>Test_051_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>6</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>13</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_002</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.05 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_002.json</ConfigLocation>
+      <ScenarioName>Test_051_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>33</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>66</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_003</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.1 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_003.json</ConfigLocation>
+      <ScenarioName>Test_051_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>66</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>133</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_004</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.2 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_004.json</ConfigLocation>
+      <ScenarioName>Test_051_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>93.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>133</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>186.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>266</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_005</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.3 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_005.json</ConfigLocation>
+      <ScenarioName>Test_051_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>110.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>220.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_006</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.4 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_006.json</ConfigLocation>
+      <ScenarioName>Test_051_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>126.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>266</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>252.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>533</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_007</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.5 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_007.json</ConfigLocation>
+      <ScenarioName>Test_051_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>142.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>333</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>284.4</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>666</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>142.2</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_008</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.6 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_008.json</ConfigLocation>
+      <ScenarioName>Test_051_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>158.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>400</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>317.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>317.3</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_009</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.7 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_009.json</ConfigLocation>
+      <ScenarioName>Test_051_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>175.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>466</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>351.7</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>933</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>351.7</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_010</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.8 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_010.json</ConfigLocation>
+      <ScenarioName>Test_051_010</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>194.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>533</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>388.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1066</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>388.1</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_051_011</Id>
+      <Description>Движение потока людей контингента "Дети с ограниченными возможностями" с плотностью потока 0.9 м²/м² по пандусу вниз.</Description>
+      <ProjectLocation>Test_051.fnx</ProjectLocation>
+      <ConfigLocation>Test_051_011.json</ConfigLocation>
+      <ScenarioName>Test_051_011</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>213.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>600</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>427.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>427.2</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

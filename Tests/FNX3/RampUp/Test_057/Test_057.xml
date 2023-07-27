@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_057</Id>
+  <Description>Движение потока людей контингента "M3" по пандусу вверх.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_057.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_057_001</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.01 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_001.json</ConfigLocation>
+      <ScenarioName>Test_057_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>27.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>3</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>54.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>6</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_002</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.05 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_002.json</ConfigLocation>
+      <ScenarioName>Test_057_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>27.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>16</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>54.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>33</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_003</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.1 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_003.json</ConfigLocation>
+      <ScenarioName>Test_057_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>27.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>33</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>54.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>66</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_004</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.2 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_004.json</ConfigLocation>
+      <ScenarioName>Test_057_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>33.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>66</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>65.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>133</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_005</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.3 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_005.json</ConfigLocation>
+      <ScenarioName>Test_057_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>42.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>100</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>84.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_006</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.4 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_006.json</ConfigLocation>
+      <ScenarioName>Test_057_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>52.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>133</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>105.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>266</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_007</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.5 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_007.json</ConfigLocation>
+      <ScenarioName>Test_057_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>65.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>166</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>130.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>333</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>65.1</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_008</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.6 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_008.json</ConfigLocation>
+      <ScenarioName>Test_057_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>80.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>161.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>161.5</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_009</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.7 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_009.json</ConfigLocation>
+      <ScenarioName>Test_057_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>101.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>233</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>202.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>466</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>202.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_010</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.8 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_010.json</ConfigLocation>
+      <ScenarioName>Test_057_010</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>130.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>266</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>260.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>533</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>260.5</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_057_011</Id>
+      <Description>Движение потока людей контингента "M3" с плотностью потока 0.9 м²/м² по пандусу вверх.</Description>
+      <ProjectLocation>Test_057.fnx</ProjectLocation>
+      <ConfigLocation>Test_057_011.json</ConfigLocation>
+      <ScenarioName>Test_057_011</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>173.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>300</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>347.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>347.8</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

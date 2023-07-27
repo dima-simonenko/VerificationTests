@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_901</Id>
+  <RegistratorEvacuationTimeMaxDiff>10</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>0</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_901_001</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>15.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>40</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>40</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_002</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>20.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>80</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>80</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_003</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>25.5</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>120</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>120</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_004</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>30.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>160</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>160</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_005</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>36.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_006</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>42.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>240</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>240</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_007</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>52.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>280</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>280</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_008</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>63.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>320</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>320</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_901_009</Id>
+      <ProjectLocation>Test_901.fnx</ProjectLocation>
+      <ScenarioName>Test_901_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>80.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>360</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>360</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

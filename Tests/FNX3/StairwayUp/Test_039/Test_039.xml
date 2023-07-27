@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_039</Id>
+  <Description>Движение потока людей контингента "Престарелые люди" по лестнице вверх.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_039.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_039_001</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.01 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_001.json</ConfigLocation>
+      <ScenarioName>Test_039_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>5</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_002</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.05 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_002.json</ConfigLocation>
+      <ScenarioName>Test_039_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>25</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>50</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_003</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.1 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_003.json</ConfigLocation>
+      <ScenarioName>Test_039_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>50</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>100</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_004</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.2 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_004.json</ConfigLocation>
+      <ScenarioName>Test_039_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>93.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>100</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>186.6</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_005</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.3 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_005.json</ConfigLocation>
+      <ScenarioName>Test_039_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>112.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>150</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>224.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>300</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_006</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.4 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_006.json</ConfigLocation>
+      <ScenarioName>Test_039_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>131.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>263.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>400</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_007</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.5 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_007.json</ConfigLocation>
+      <ScenarioName>Test_039_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>151.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>250</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>303.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>500</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>151.7</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_008</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.6 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_008.json</ConfigLocation>
+      <ScenarioName>Test_039_008</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>173.3</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>300</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>346.7</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>600</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>346.7</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_009</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.7 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_009.json</ConfigLocation>
+      <ScenarioName>Test_039_009</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>197.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>350</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>394.1</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>700</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>394.1</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_010</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.8 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_010.json</ConfigLocation>
+      <ScenarioName>Test_039_010</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>223.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>400</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>447.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>800</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>447.2</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_039_011</Id>
+      <Description>Движение потока людей контингента "Престарелые люди" с плотностью потока 0.9 м²/м² по лестнице вверх.</Description>
+      <ProjectLocation>Test_039.fnx</ProjectLocation>
+      <ConfigLocation>Test_039_011.json</ConfigLocation>
+      <ScenarioName>Test_039_011</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>253.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>450</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>507.4</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>900</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>507.4</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

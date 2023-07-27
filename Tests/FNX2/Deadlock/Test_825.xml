@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_825</Id>
+  <RegistratorEvacuationTimeMaxDiff>INF</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>INF</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_825_001</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 7</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>101</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_825_002</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 8</ScenarioName>
+      <RegistratorName>Дверь 1182</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>665</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_825_003</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 2</ScenarioName>
+      <RegistratorName>Дверь 1182</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>664</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_825_004</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 3</ScenarioName>
+      <RegistratorName>Дверь 1182</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>664</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_825_005</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 4</ScenarioName>
+      <RegistratorName>Дверь 1182</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>664</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_825_006</Id>
+      <ProjectLocation>FS-156.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 5</ScenarioName>
+      <RegistratorName>Дверь 1182</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>664</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

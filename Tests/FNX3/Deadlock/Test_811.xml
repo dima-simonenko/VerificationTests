@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_811</Id>
+  <RegistratorEvacuationTimeMaxDiff>INF</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>INF</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_811_001</Id>
+      <ProjectLocation>FNX-972.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 1(Очаг пожара в магазине смешанных товаров на 1 этаже)</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>8315</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_811_002</Id>
+      <ProjectLocation>FNX-972.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 2(Очаг пожара в магазине одежды на 2 этаже)</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>8315</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_811_003</Id>
+      <ProjectLocation>FNX-972.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 3(Очаг пожара в зале кинотеатра на 3 этаже)</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>8315</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_811_004</Id>
+      <ProjectLocation>FNX-972.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 3</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>8050</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

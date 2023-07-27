@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_818</Id>
+  <Description>В проекте допущен ряд ошибок, из-за которых 13 человека из 800 не могут физически эвакуироваться</Description>
+  <RegistratorEvacuationTimeMaxDiff>INF</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>INF</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_818_001</Id>
+      <ProjectLocation>Новый проект 003.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 1</ScenarioName>
+      <RegistratorName>Дверь 3</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>787</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

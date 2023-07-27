@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_010</Id>
+  <Description>Движение потока людей контингента "Дети дошкольного возраста" по горизонтальному пути.</Description>
+  <RegistratorEvacuationTimeMaxDiff>10.0</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>5.0</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_010.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_010_001</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.01 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_001.json</ConfigLocation>
+      <ScenarioName>Test_010_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>25.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>33</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>50.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>67</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_002</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.05 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_002.json</ConfigLocation>
+      <ScenarioName>Test_010_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>31.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>166</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>63.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>333</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_003</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.1 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_003.json</ConfigLocation>
+      <ScenarioName>Test_010_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>41.6</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>333</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>83.3</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>667</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_004</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.2 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_004.json</ConfigLocation>
+      <ScenarioName>Test_010_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>61.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>666</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>122.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>1333</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_005</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.3 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_005.json</ConfigLocation>
+      <ScenarioName>Test_010_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>83.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>1000</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>167.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>2000</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_006</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.4 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_006.json</ConfigLocation>
+      <ScenarioName>Test_010_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>114.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>1333</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>227.9</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>2667</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_010_007</Id>
+      <Description>Движение потока людей контингента "Дети дошкольного возраста" с плотностью потока 0.5 м²/м² по горизонтальному пути.</Description>
+      <ProjectLocation>Test_010.fnx</ProjectLocation>
+      <ConfigLocation>Test_010_007.json</ConfigLocation>
+      <ScenarioName>Test_010_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>158.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>1667</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>316.5</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>3333</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>158.25</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

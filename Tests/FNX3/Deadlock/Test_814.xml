@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_814</Id>
+  <RegistratorEvacuationTimeMaxDiff>INF</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>INF</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_814_001</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 1</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_814_002</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 1_Этаж 2</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_814_003</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 2_Этаж 3</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_814_004</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 3_Этаж 4</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_814_005</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 4_Этаж 1</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_814_006</Id>
+      <ProjectLocation>FNX-1016.fnx</ProjectLocation>
+      <ScenarioName>Сценарий 2</ScenarioName>
+      <RegistratorName>Дверь 695</RegistratorName>
+      <RegistratorEvacuationTime>0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>0</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>10805</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

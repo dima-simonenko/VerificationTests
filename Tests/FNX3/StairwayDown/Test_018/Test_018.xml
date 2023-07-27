@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TestGroup>
+  <Id>Test_018</Id>
+  <Description>Движение потока людей контингента "Беременные женщины" по лестнице вниз.</Description>
+  <RegistratorEvacuationTimeMaxDiff>Infinity</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>Infinity</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_018.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_018_001</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.01 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_001.json</ConfigLocation>
+      <ScenarioName>Test_018_001</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>7</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>15</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_002</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.05 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_002.json</ConfigLocation>
+      <ScenarioName>Test_018_002</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>38</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>76</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_003</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.1 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_003.json</ConfigLocation>
+      <ScenarioName>Test_018_003</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>76</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>153</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_004</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.2 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_004.json</ConfigLocation>
+      <ScenarioName>Test_018_004</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>153</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>307</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_005</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.3 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_005.json</ConfigLocation>
+      <ScenarioName>Test_018_005</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>230</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>461</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_006</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.4 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_006.json</ConfigLocation>
+      <ScenarioName>Test_018_006</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>307</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>615</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_018_007</Id>
+      <Description>Движение потока людей контингента "Беременные женщины" с плотностью потока 0.5 м²/м² по лестнице вниз.</Description>
+      <ProjectLocation>Test_018.fnx</ProjectLocation>
+      <ConfigLocation>Test_018_007.json</ConfigLocation>
+      <ScenarioName>Test_018_007</ScenarioName>
+      <RegistratorName>Регистратор 1</RegistratorName>
+      <RegistratorEvacuationTime>75.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>384</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>150.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>769</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>75.0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

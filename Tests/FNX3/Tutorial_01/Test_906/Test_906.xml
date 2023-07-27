@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_906</Id>
+  <RegistratorEvacuationTimeMaxDiff>10</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>0</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>INF</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>INF</ScenarioConcourseTimeMaxDiff>
+  <Tests>
+    <Test>
+      <Id>Test_906_001</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_001</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>15.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>40</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>40</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_002</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_002</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>57.14</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>80</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>80</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_003</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_003</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>85.71</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>120</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>120</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_004</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_004</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>114.29</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>160</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>160</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_005</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_005</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>142.86</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>200</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>200</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_006</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_006</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>171.43</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>240</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>240</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_007</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_007</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>200.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>280</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>280</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_008</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_008</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>228.57</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>320</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>320</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_906_009</Id>
+      <ProjectLocation>Test_906.fnx</ProjectLocation>
+      <ScenarioName>Test_906_009</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>257.14</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>360</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>360</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestGroup>
+  <Id>Test_101</Id>
+  <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем.</Description>
+  <RegistratorEvacuationTimeMaxDiff>10.0</RegistratorEvacuationTimeMaxDiff>
+  <RegistratorEvacuatedPeopleCountMaxDiff>5.0</RegistratorEvacuatedPeopleCountMaxDiff>
+  <ScenarioEvacuationTimeMaxDiff>Infinity</ScenarioEvacuationTimeMaxDiff>
+  <ScenarioEvacuatedPeopleCountMaxDiff>0.0</ScenarioEvacuatedPeopleCountMaxDiff>
+  <ScenarioConcourseTimeMaxDiff>Infinity</ScenarioConcourseTimeMaxDiff>
+  <ConfigLocation>Test_101.json</ConfigLocation>
+  <Tests>
+    <Test>
+      <Id>Test_101_001</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 0.7 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_001.json</ConfigLocation>
+      <ScenarioName>Test_101_001</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>15.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>30.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_002</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 0.8 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_002.json</ConfigLocation>
+      <ScenarioName>Test_101_002</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>15.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>30.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_003</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 0.9 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_003.json</ConfigLocation>
+      <ScenarioName>Test_101_003</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>18.7</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>37.4</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_004</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.0 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_004.json</ConfigLocation>
+      <ScenarioName>Test_101_004</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>25.1</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>50.2</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_005</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.1 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_005.json</ConfigLocation>
+      <ScenarioName>Test_101_005</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>31.4</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>62.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_006</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.2 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_006.json</ConfigLocation>
+      <ScenarioName>Test_101_006</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>38.2</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>76.4</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>0.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_007</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.3 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_007.json</ConfigLocation>
+      <ScenarioName>Test_101_007</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>45.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>91.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>45.9</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_008</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.4 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_008.json</ConfigLocation>
+      <ScenarioName>Test_101_008</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>55.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>110.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>110.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_009</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.5 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_009.json</ConfigLocation>
+      <ScenarioName>Test_101_009</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>66.0</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>132.0</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>132.0</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_010</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.6 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_010.json</ConfigLocation>
+      <ScenarioName>Test_101_010</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>79.8</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>159.6</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>159.6</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_011</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.7 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_011.json</ConfigLocation>
+      <ScenarioName>Test_101_011</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>97.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>195.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>195.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_012</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.8 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_012.json</ConfigLocation>
+      <ScenarioName>Test_101_012</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>97.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>195.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>195.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_013</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 1.9 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_013.json</ConfigLocation>
+      <ScenarioName>Test_101_013</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>97.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>195.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>195.8</ScenarioConcourseTime>
+    </Test>
+    <Test>
+      <Id>Test_101_014</Id>
+      <Description>Движение потока людей контингента "Взрослый человек в летней одежде" с плотностью потока 0.9 м²/м² через дверной проем шириной 2.0 м.</Description>
+      <ProjectLocation>Test_101.fnx</ProjectLocation>
+      <ConfigLocation>Test_101_014.json</ConfigLocation>
+      <ScenarioName>Test_101_014</ScenarioName>
+      <RegistratorName>Дверь 1</RegistratorName>
+      <RegistratorEvacuationTime>97.9</RegistratorEvacuationTime>
+      <RegistratorEvacuatedPeopleCount>895</RegistratorEvacuatedPeopleCount>
+      <ScenarioEvacuationTime>195.8</ScenarioEvacuationTime>
+      <ScenarioEvacuatedPeopleCount>895</ScenarioEvacuatedPeopleCount>
+      <ScenarioConcourseTime>195.8</ScenarioConcourseTime>
+    </Test>
+  </Tests>
+</TestGroup>
